@@ -87,6 +87,9 @@
 [gcr.io/google-containers/hyperkube:v1.10.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
+[gcr.io/google-containers/hyperkube:v1.10.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
 [gcr.io/google-containers/hyperkube:v1.10.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
@@ -136,6 +139,9 @@
 
 
 [gcr.io/google-containers/hyperkube:v1.10.9-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
+[gcr.io/google-containers/hyperkube:v1.10.9](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
 [gcr.io/google-containers/hyperkube:v1.1.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
@@ -225,10 +231,19 @@
 [gcr.io/google-containers/hyperkube:v1.12.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
+[gcr.io/google-containers/hyperkube:v1.12.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
+[gcr.io/google-containers/hyperkube:v1.12.2-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
 [gcr.io/google-containers/hyperkube:v1.1.2](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
 [gcr.io/google-containers/hyperkube:v1.13.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+
+
+[gcr.io/google-containers/hyperkube:v1.13.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 
 
 [gcr.io/google-containers/hyperkube:v1.1.3](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)

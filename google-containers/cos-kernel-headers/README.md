@@ -24,3 +24,9 @@
 [gcr.io/google-containers/cos-kernel-headers:20180920-R00-00](https://hub.docker.com/r/anjia0532/google-containers.cos-kernel-headers/tags/)
 
 
+[gcr.io/google-containers/cos-kernel-headers:latest](https://hub.docker.com/r/anjia0532/google-containers.cos-kernel-headers/tags/)
+
+
+[gcr.io/google-containers/cos-kernel-headers:live](https://hub.docker.com/r/anjia0532/google-containers.cos-kernel-headers/tags/)
+
+

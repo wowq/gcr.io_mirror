@@ -6,6 +6,12 @@
 [gcr.io/google-containers/ip-masq-agent-amd64:v0.4.0](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
 
 
+[gcr.io/google-containers/ip-masq-agent-amd64:v1.0.0](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
+
+
+[gcr.io/google-containers/ip-masq-agent-amd64:v2.0.0-dirty](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
+
+
 [gcr.io/google-containers/ip-masq-agent-amd64:v2.0.0](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
 
 
@@ -16,5 +22,8 @@
 
 
 [gcr.io/google-containers/ip-masq-agent-amd64:v2.1.1](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
+
+
+[gcr.io/google-containers/ip-masq-agent-amd64:v2.2.0](https://hub.docker.com/r/anjia0532/google-containers.ip-masq-agent-amd64/tags/)
 
 

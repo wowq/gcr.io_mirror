@@ -54,10 +54,16 @@
 [gcr.io/google-containers/etcd-ppc64le:3.2.17](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)
 
 
+[gcr.io/google-containers/etcd-ppc64le:3.2.18-0](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)
+
+
 [gcr.io/google-containers/etcd-ppc64le:3.2.18](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)
 
 
 [gcr.io/google-containers/etcd-ppc64le:3.2.24-0](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)
+
+
+[gcr.io/google-containers/etcd-ppc64le:3.2.24-1](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)
 
 
 [gcr.io/google-containers/etcd-ppc64le:3.2.24](https://hub.docker.com/r/anjia0532/google-containers.etcd-ppc64le/tags/)

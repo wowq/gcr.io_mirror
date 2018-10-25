@@ -60,3 +60,9 @@
 [gcr.io/google-containers/coredns:1.2.2](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/)
 
 
+[gcr.io/google-containers/coredns:1.2.3](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/)
+
+
+[gcr.io/google-containers/coredns:1.2.4](https://hub.docker.com/r/anjia0532/google-containers.coredns/tags/)
+
+

@@ -27,3 +27,6 @@
 [gcr.io/google-containers/github-token-counter:v20170303-212711](https://hub.docker.com/r/anjia0532/google-containers.github-token-counter/tags/)
 
 
+[gcr.io/google-containers/github-token-counter:v20170303-212840](https://hub.docker.com/r/anjia0532/google-containers.github-token-counter/tags/)
+
+

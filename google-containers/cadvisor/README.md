@@ -57,6 +57,9 @@
 [gcr.io/google-containers/cadvisor:v0.28.2](https://hub.docker.com/r/anjia0532/google-containers.cadvisor/tags/)
 
 
+[gcr.io/google-containers/cadvisor:v0.28.3](https://hub.docker.com/r/anjia0532/google-containers.cadvisor/tags/)
+
+
 [gcr.io/google-containers/cadvisor:v0.28.4](https://hub.docker.com/r/anjia0532/google-containers.cadvisor/tags/)
 
 

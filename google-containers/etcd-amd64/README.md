@@ -66,6 +66,9 @@
 [gcr.io/google-containers/etcd-amd64:3.0.13-experimental.5](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
 
 
+[gcr.io/google-containers/etcd-amd64:3.0.14-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
+
+
 [gcr.io/google-containers/etcd-amd64:3.0.14-experimental.1](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
 
 
@@ -160,6 +163,9 @@
 
 
 [gcr.io/google-containers/etcd-amd64:3.2.24-0](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
+
+
+[gcr.io/google-containers/etcd-amd64:3.2.24-1](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)
 
 
 [gcr.io/google-containers/etcd-amd64:3.2.24](https://hub.docker.com/r/anjia0532/google-containers.etcd-amd64/tags/)

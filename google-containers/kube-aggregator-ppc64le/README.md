@@ -36,6 +36,9 @@
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
 
 
@@ -85,6 +88,9 @@
 
 
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.9-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-aggregator-ppc64le:v1.10.9](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
 
 
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.11.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
@@ -153,7 +159,13 @@
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.7.11](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-aggregator-ppc64le:v1.7.12-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.7.12](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-aggregator-ppc64le:v1.7.13-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)
 
 
 [gcr.io/google-containers/kube-aggregator-ppc64le:v1.7.13](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-ppc64le/tags/)

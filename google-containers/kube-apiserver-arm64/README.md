@@ -36,6 +36,9 @@
 [gcr.io/google-containers/kube-apiserver-arm64:v1.10.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver-arm64:v1.10.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver-arm64:v1.10.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
@@ -85,6 +88,9 @@
 
 
 [gcr.io/google-containers/kube-apiserver-arm64:v1.10.9-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
+[gcr.io/google-containers/kube-apiserver-arm64:v1.10.9](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
 [gcr.io/google-containers/kube-apiserver-arm64:v1.11.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
@@ -165,7 +171,16 @@
 [gcr.io/google-containers/kube-apiserver-arm64:v1.12.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver-arm64:v1.12.1](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
+[gcr.io/google-containers/kube-apiserver-arm64:v1.12.2-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver-arm64:v1.13.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
+[gcr.io/google-containers/kube-apiserver-arm64:v1.13.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
 [gcr.io/google-containers/kube-apiserver-arm64:v1.3.0-alpha.3](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
@@ -498,6 +513,9 @@
 [gcr.io/google-containers/kube-apiserver-arm64:v1.6.13](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver-arm64:v1.6.14-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver-arm64:v1.6.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
@@ -585,7 +603,13 @@
 [gcr.io/google-containers/kube-apiserver-arm64:v1.7.11](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver-arm64:v1.7.12-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver-arm64:v1.7.12](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
+
+
+[gcr.io/google-containers/kube-apiserver-arm64:v1.7.13-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)
 
 
 [gcr.io/google-containers/kube-apiserver-arm64:v1.7.13](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-arm64/tags/)

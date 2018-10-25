@@ -21,3 +21,6 @@
 [gcr.io/google-containers/debian-base-ppc64le:0.3](https://hub.docker.com/r/anjia0532/google-containers.debian-base-ppc64le/tags/)
 
 
+[gcr.io/google-containers/debian-base-ppc64le:0.4.0](https://hub.docker.com/r/anjia0532/google-containers.debian-base-ppc64le/tags/)
+
+
