@@ -144,6 +144,12 @@
 [gcr.io/google-containers/kube-aggregator-arm:v1.11.4-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-arm/tags/)
 
 
+[gcr.io/google-containers/kube-aggregator-arm:v1.11.4](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-arm/tags/)
+
+
+[gcr.io/google-containers/kube-aggregator-arm:v1.11.5-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-arm/tags/)
+
+
 [gcr.io/google-containers/kube-aggregator-arm:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-aggregator-arm/tags/)
 
 

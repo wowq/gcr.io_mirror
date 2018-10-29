@@ -1014,6 +1014,9 @@
 [gcr.io/google-appengine/memcache-proxy:flex_sidecars.20181018_RC00](https://hub.docker.com/r/anjia0532/google-appengine.memcache-proxy/tags/)
 
 
+[gcr.io/google-appengine/memcache-proxy:flex_sidecars.20181025_RC00](https://hub.docker.com/r/anjia0532/google-appengine.memcache-proxy/tags/)
+
+
 [gcr.io/google-appengine/memcache-proxy:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.memcache-proxy/tags/)
 
 

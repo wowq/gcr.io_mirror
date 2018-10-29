@@ -1893,6 +1893,9 @@
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171012_0138_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171012_0738_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171012_1146_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
@@ -2058,6 +2061,9 @@
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171207_1015_RC01](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171210_2215_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171211_0415_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
@@ -2098,6 +2104,9 @@
 
 
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171220_1615_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171222_1425_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171222_1615_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
@@ -2845,6 +2854,9 @@
 
 
 [gcr.io/cloud-datalab/datalab-gateway:commit-cdb123428898f71c7f95466302a9b31d2b176f23](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gateway:commit-cdc76038d625f1fbb07566138665891d08acee78](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
 [gcr.io/cloud-datalab/datalab-gateway:commit-ce83a1d45c57e8689f22735269d14b59bf5695d6](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)

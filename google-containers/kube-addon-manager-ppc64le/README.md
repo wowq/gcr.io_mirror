@@ -63,3 +63,6 @@
 [gcr.io/google-containers/kube-addon-manager-ppc64le:v8.8](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-addon-manager-ppc64le:v8.9](https://hub.docker.com/r/anjia0532/google-containers.kube-addon-manager-ppc64le/tags/)
+
+
