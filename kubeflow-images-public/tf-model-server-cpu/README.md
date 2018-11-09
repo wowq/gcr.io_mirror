@@ -24,6 +24,9 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180326-b0c432b9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180327-995786ec](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180523-12fe49a4](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
@@ -43,6 +46,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180601-b393737a](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180602-b3733835](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180603-b3733835](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -73,6 +79,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180609-2285b8be](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180609-3e8f3874](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180610-07630550](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -114,7 +123,13 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180702-6c2c69b2](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180703-8fdf3652](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180704-8fdf3652](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180705-8fdf3652](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180706-a50c2fb0](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -138,6 +153,9 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180710-bf1c2f0a](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180710-c756adda](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180711-41ee6604](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
@@ -148,6 +166,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180711-a1ec7314](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180711-e7e16c4a](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180712-692539bf](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -180,6 +201,9 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180716-0fb9cdae](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180717-6f246896](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180718-b6a70416](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
@@ -192,6 +216,9 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180718-f5801b13](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180719-7fc45451](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180720-3d099b9a](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
@@ -201,7 +228,13 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180722-471de67f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180723-471de67f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180724-0047a53d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180725-177377f1](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180726-177377f1](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -211,6 +244,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180728-645db22f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180729-19ca6d4d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180729-32b79ba9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -229,6 +265,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180802-a8c0dda2](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180802-ac649bff](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180803-4ec73180](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -318,6 +357,9 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180820-6899f628](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180821-7c5f05b3](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180822-7c5f05b3](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
@@ -325,6 +367,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180823-2e305f2f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180823-fce0f861](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180824-70284dc9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -336,7 +381,13 @@
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180825-106e2672](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180825-41368da0](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180825-a41ba728](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180826-1facb6ac](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180827-1facb6ac](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
@@ -367,6 +418,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180831-9ce45532](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180901-b3b92edd](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf-model-server-cpu:v20180902-b3b92edd](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-cpu/tags/)

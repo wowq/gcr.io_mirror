@@ -12,6 +12,12 @@
 [gcr.io/kubeflow-images-public/bootstrapper:v20180429-v0.1.1-13-g108313ae-e3b0c4](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper:v20180519-v0.1.1-57-g4c29f52f-e3b0c4](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper:v20180524-v0.1.1-67-g01ccdff-dirty-4505db](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper:v20180524-v0.1.1-67-g01ccdff-dirty-e6531e](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
@@ -22,6 +28,9 @@
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180529-v0.1.1-72-gdc41b18-dirty-9121e2](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper:v20180529-v0.1.1-74-gbc1cc8b-dirty-9d0492](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180529-v0.1.1-74-gbc1cc8b-e3b0c4](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
@@ -39,6 +48,9 @@
 [gcr.io/kubeflow-images-public/bootstrapper:v20180614-052b002-dirty-f2d8e3](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper:v20180615-2453eb7](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper:v20180618-715aafc](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
@@ -49,6 +61,9 @@
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180627-be2ead0](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper:v20180629-178b151](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180815-0ca531e-dirty-5f5652](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
@@ -72,13 +87,22 @@
 [gcr.io/kubeflow-images-public/bootstrapper:v20180831-a293a0c-dirty-29bd0b](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper:v20180907-299acdaa-dirty-14b22d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper:v20180907-299acdaa-dirty-7d54b9](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180907-299acdaa-dirty-aead57](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper:v20180910-38b7da4c-dirty-cd31a3](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper:v20180910-585674b2-dirty-928448](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper:v20180910-eaf4a550-dirty-b2d739](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180912-1e4702c2-dirty-6a5457](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
@@ -93,7 +117,13 @@
 [gcr.io/kubeflow-images-public/bootstrapper:v20180912-a4a34d20-dirty-b41bd1](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper:v20180913-0ec42ca3-dirty-b41bd1](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper:v20180918-35ac2be5-dirty-b41bd1](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper:v20180918-f62212a-dirty-d80e27](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper:v20180918-fbed5ea-dirty-97f210](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper/tags/)

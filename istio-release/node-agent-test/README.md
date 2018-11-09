@@ -1803,6 +1803,24 @@
 [gcr.io/istio-release/node-agent-test:release-1.0-20181028-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
 
 
+[gcr.io/istio-release/node-agent-test:release-1.0-20181029-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20181030-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20181031-10-06](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20181101-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20181102-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
+[gcr.io/istio-release/node-agent-test:release-1.0-20181103-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
+
+
 [gcr.io/istio-release/node-agent-test:release-1.0-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.node-agent-test/tags/)
 
 

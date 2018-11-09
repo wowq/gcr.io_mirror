@@ -201,6 +201,9 @@
 [gcr.io/google-containers/hyperkube-amd64:v1.13.0-alpha.2](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-amd64/tags/)
 
 
+[gcr.io/google-containers/hyperkube-amd64:v1.13.0-alpha.3](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-amd64/tags/)
+
+
 [gcr.io/google-containers/hyperkube-amd64:v1.2.0-alpha.6](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-amd64/tags/)
 
 

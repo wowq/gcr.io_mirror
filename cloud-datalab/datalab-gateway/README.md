@@ -1974,6 +1974,9 @@
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171102_1647_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171103_1116_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171103_1536_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
@@ -1987,6 +1990,9 @@
 
 
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171106_2036_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171108_1436_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171109_1436_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
@@ -2097,6 +2103,9 @@
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171215_2215_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171216_0415_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20171218_2215_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
@@ -2184,7 +2193,13 @@
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180120_2002_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180127_2002_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180128_1402_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
+
+
+[gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180128_2002_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)
 
 
 [gcr.io/cloud-datalab/datalab-gateway:cloud_datalab_release_20180201_2002_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gateway/tags/)

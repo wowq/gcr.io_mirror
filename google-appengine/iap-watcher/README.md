@@ -393,6 +393,9 @@
 [gcr.io/google-appengine/iap-watcher:flex_sidecars.20181025_RC00](https://hub.docker.com/r/anjia0532/google-appengine.iap-watcher/tags/)
 
 
+[gcr.io/google-appengine/iap-watcher:flex_sidecars.20181101_RC00](https://hub.docker.com/r/anjia0532/google-appengine.iap-watcher/tags/)
+
+
 [gcr.io/google-appengine/iap-watcher:latest](https://hub.docker.com/r/anjia0532/google-appengine.iap-watcher/tags/)
 
 

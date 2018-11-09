@@ -3,6 +3,9 @@
 -----
 
 
+[gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180808-178b151-dirty-61ee07](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180809-178b151-dirty-8c0daa](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
 
 
@@ -18,7 +21,13 @@
 [gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180813-cbc1c06-dirty-b82a7f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
 
 
+[gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180813-cbc1c06-dirty-c536de](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
+
+
 [gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180813-cbc1c06-dirty-c88905](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
+
+
+[gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180813-cbc1c06-dirty-dffe4f](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)
 
 
 [gcr.io/kubeflow-images-public/bootstrapper-minikube:v20180813-cbc1c06-dirty-ee29b5](https://hub.docker.com/r/anjia0532/kubeflow-images-public.bootstrapper-minikube/tags/)

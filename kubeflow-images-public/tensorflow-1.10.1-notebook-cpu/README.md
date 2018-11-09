@@ -15,6 +15,9 @@
 [gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v20180301-pr317](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.10.1-notebook-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-7a84feb-864](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.10.1-notebook-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tensorflow-1.10.1-notebook-cpu:v-base-b321075-822](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.10.1-notebook-cpu/tags/)
 
 

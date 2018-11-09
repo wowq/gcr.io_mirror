@@ -12,6 +12,9 @@
 [gcr.io/google-appengine/aspnetcore:1.0.12](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
+[gcr.io/google-appengine/aspnetcore:1.0.13](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
 [gcr.io/google-appengine/aspnetcore:1.0-2018-04-09_14_59](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
@@ -64,6 +67,9 @@
 
 
 [gcr.io/google-appengine/aspnetcore:1.0-2018-10-10_13_09](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
+[gcr.io/google-appengine/aspnetcore:1.0-2018-11-02_13_06](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
 [gcr.io/google-appengine/aspnetcore:1.0.3-2017-05-04_10_08](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
@@ -279,6 +285,9 @@
 [gcr.io/google-appengine/aspnetcore:1.0](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
+[gcr.io/google-appengine/aspnetcore:1.1.10](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
 [gcr.io/google-appengine/aspnetcore:1.1.1-2017-05-04_10_10](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
@@ -388,6 +397,9 @@
 
 
 [gcr.io/google-appengine/aspnetcore:1.1-2018-10-10_13_09](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
+[gcr.io/google-appengine/aspnetcore:1.1-2018-11-02_13_06](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
 [gcr.io/google-appengine/aspnetcore:1.1.2-2017-05-19_02_24](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
@@ -621,6 +633,9 @@
 [gcr.io/google-appengine/aspnetcore:2.0-2018-10-10_13_09](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
+[gcr.io/google-appengine/aspnetcore:2.0-2018-11-02_13_06](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
 [gcr.io/google-appengine/aspnetcore:2.0.3-2017-11-28-180429](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
@@ -703,6 +718,9 @@
 
 
 [gcr.io/google-appengine/aspnetcore:2.1-2018-10-10_13_09](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
+
+
+[gcr.io/google-appengine/aspnetcore:2.1-2018-11-02_13_06](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)
 
 
 [gcr.io/google-appengine/aspnetcore:2.1.2](https://hub.docker.com/r/anjia0532/google-appengine.aspnetcore/tags/)

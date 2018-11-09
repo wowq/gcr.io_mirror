@@ -591,3 +591,9 @@
 [gcr.io/spinnaker-marketplace/orca:1.2.0-20181027022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181031022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181102022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+

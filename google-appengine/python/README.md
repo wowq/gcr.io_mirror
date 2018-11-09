@@ -216,6 +216,15 @@
 [gcr.io/google-appengine/python:2018-10-01-173803](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
 
 
+[gcr.io/google-appengine/python:2018-10-30-213630](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
+
+
+[gcr.io/google-appengine/python:2018-10-31-145236](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
+
+
+[gcr.io/google-appengine/python:2018-10-31-153152](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
+
+
 [gcr.io/google-appengine/python:latest](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
 
 

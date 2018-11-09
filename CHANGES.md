@@ -1,3 +1,14 @@
+## 2018-11-09 22:38 
+
+[gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180707-5a11c84d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-gpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180803-4ec73180](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-gpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf-model-server-gpu:v20180608-cc3566da](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf-model-server-gpu/tags/)
+
+
 ## 2018-10-29 09:15 
 
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.11.4](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)

@@ -6,10 +6,19 @@
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-23c6887-261-f19d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-513e107-266-fa39](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-51facb7-268-61ed](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-5a85d7b-264-0535](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-5f7b808-254-f24b](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-70cafb1-271-1911](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-713f904-259-7780](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
@@ -27,7 +36,16 @@
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-a69afa6-258-c580](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-abb3134-269-4695](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-b12da9e-262-1a70](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-cf01b51-267-dcb2](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-dc296b4-270-36a8](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-e4e718d-252-c450](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)

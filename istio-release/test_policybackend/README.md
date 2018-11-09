@@ -252,6 +252,9 @@
 [gcr.io/istio-release/test_policybackend:krishna-test8](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
+[gcr.io/istio-release/test_policybackend:krishna-test-daily](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
 [gcr.io/istio-release/test_policybackend:krishna-test-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
@@ -673,6 +676,24 @@
 
 
 [gcr.io/istio-release/test_policybackend:master-20181028-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181029-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181030-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181031-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181101-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181102-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:master-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
 [gcr.io/istio-release/test_policybackend:master-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
@@ -1119,6 +1140,24 @@
 [gcr.io/istio-release/test_policybackend:release-1.0-20181028-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
+[gcr.io/istio-release/test_policybackend:release-1.0-20181029-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20181030-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20181031-10-06](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20181101-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20181102-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.0-20181103-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
 [gcr.io/istio-release/test_policybackend:release-1.0-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
@@ -1147,6 +1186,24 @@
 
 
 [gcr.io/istio-release/test_policybackend:release-1.1-20181028-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181029-10-38](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181030-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181031-10-06](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181101-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181102-09-15](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
+
+
+[gcr.io/istio-release/test_policybackend:release-1.1-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)
 
 
 [gcr.io/istio-release/test_policybackend:release-1.1-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.test_policybackend/tags/)

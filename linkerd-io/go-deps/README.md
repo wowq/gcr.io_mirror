@@ -9,6 +9,9 @@
 [gcr.io/linkerd-io/go-deps:0c590d0e](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
 
 
+[gcr.io/linkerd-io/go-deps:0d7c8b9b](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
+
+
 [gcr.io/linkerd-io/go-deps:0f0f2e2d](https://hub.docker.com/r/anjia0532/linkerd-io.go-deps/tags/)
 
 

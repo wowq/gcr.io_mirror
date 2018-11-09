@@ -123,6 +123,9 @@
 [gcr.io/google-appengine/api-proxy:flex_sidecars.20181025_RC00](https://hub.docker.com/r/anjia0532/google-appengine.api-proxy/tags/)
 
 
+[gcr.io/google-appengine/api-proxy:flex_sidecars.20181101_RC00](https://hub.docker.com/r/anjia0532/google-appengine.api-proxy/tags/)
+
+
 [gcr.io/google-appengine/api-proxy:latest](https://hub.docker.com/r/anjia0532/google-appengine.api-proxy/tags/)
 
 

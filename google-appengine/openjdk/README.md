@@ -126,6 +126,12 @@
 [gcr.io/google-appengine/openjdk:8-2018-08-17_20_45](https://hub.docker.com/r/anjia0532/google-appengine.openjdk/tags/)
 
 
+[gcr.io/google-appengine/openjdk:8-2018-11-01_21_26](https://hub.docker.com/r/anjia0532/google-appengine.openjdk/tags/)
+
+
+[gcr.io/google-appengine/openjdk:8-2018-11-01-215051](https://hub.docker.com/r/anjia0532/google-appengine.openjdk/tags/)
+
+
 [gcr.io/google-appengine/openjdk:8](https://hub.docker.com/r/anjia0532/google-appengine.openjdk/tags/)
 
 

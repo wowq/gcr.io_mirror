@@ -1017,6 +1017,9 @@
 [gcr.io/google-appengine/java-compat:flex_sidecars.20181025_RC00](https://hub.docker.com/r/anjia0532/google-appengine.java-compat/tags/)
 
 
+[gcr.io/google-appengine/java-compat:flex_sidecars.20181101_RC00](https://hub.docker.com/r/anjia0532/google-appengine.java-compat/tags/)
+
+
 [gcr.io/google-appengine/java-compat:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.java-compat/tags/)
 
 
