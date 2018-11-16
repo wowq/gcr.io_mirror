@@ -225,6 +225,12 @@
 [gcr.io/google-appengine/python:2018-10-31-153152](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
 
 
+[gcr.io/google-appengine/python:2018-11-05-094354](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
+
+
+[gcr.io/google-appengine/python:2018-11-05-103343](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
+
+
 [gcr.io/google-appengine/python:latest](https://hub.docker.com/r/anjia0532/google-appengine.python/tags/)
 
 

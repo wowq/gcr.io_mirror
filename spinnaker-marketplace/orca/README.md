@@ -546,6 +546,9 @@
 [gcr.io/spinnaker-marketplace/orca:1.1.0-20181016022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 
+[gcr.io/spinnaker-marketplace/orca:1.1.1-20181109120544](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
 [gcr.io/spinnaker-marketplace/orca:1.2.0-20181017022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 
@@ -595,5 +598,20 @@
 
 
 [gcr.io/spinnaker-marketplace/orca:1.2.0-20181102022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181106022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181107022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181108022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181109022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.2.0-20181109183559](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 

@@ -1020,6 +1020,9 @@
 [gcr.io/google-appengine/fluentd-logger:flex_sidecars.20181101_RC00](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
 
 
+[gcr.io/google-appengine/fluentd-logger:flex_sidecars.20181108_RC00](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
+
+
 [gcr.io/google-appengine/fluentd-logger:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
 
 

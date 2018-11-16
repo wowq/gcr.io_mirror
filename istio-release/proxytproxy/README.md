@@ -216,6 +216,21 @@
 [gcr.io/istio-release/proxytproxy:master-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
 
 
+[gcr.io/istio-release/proxytproxy:master-20181104-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:master-20181105-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:master-20181106-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:master-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:master-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
 [gcr.io/istio-release/proxytproxy:master-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
 
 
@@ -262,6 +277,24 @@
 
 
 [gcr.io/istio-release/proxytproxy:release-1.1-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181104-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181105-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181106-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
+
+
+[gcr.io/istio-release/proxytproxy:release-1.1-20181109-09-15](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)
 
 
 [gcr.io/istio-release/proxytproxy:release-1.1-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.proxytproxy/tags/)

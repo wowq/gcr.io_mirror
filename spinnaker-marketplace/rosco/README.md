@@ -207,3 +207,6 @@
 [gcr.io/spinnaker-marketplace/rosco:0.8.1-20181026022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 
+[gcr.io/spinnaker-marketplace/rosco:0.8.1-20181109022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+

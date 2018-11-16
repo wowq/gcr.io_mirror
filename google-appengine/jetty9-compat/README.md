@@ -306,6 +306,15 @@
 [gcr.io/google-appengine/jetty9-compat:2017-05-15_20_17](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
 
 
+[gcr.io/google-appengine/jetty9-compat:20181107](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
+
+
+[gcr.io/google-appengine/jetty9-compat:2018-11-09_15_13](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
+
+
+[gcr.io/google-appengine/jetty9-compat:20181109](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
+
+
 [gcr.io/google-appengine/jetty9-compat:async-0.9.3](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
 
 
@@ -325,6 +334,9 @@
 
 
 [gcr.io/google-appengine/jetty9-compat:latest](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
+
+
+[gcr.io/google-appengine/jetty9-compat:oom-fix](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)
 
 
 [gcr.io/google-appengine/jetty9-compat:security-fix](https://hub.docker.com/r/anjia0532/google-appengine.jetty9-compat/tags/)

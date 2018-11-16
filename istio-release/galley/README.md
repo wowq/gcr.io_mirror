@@ -888,6 +888,21 @@
 [gcr.io/istio-release/galley:master-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:master-20181104-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20181105-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20181106-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:master-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:master-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
@@ -1509,6 +1524,21 @@
 [gcr.io/istio-release/galley:release-1.0-20181103-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
+[gcr.io/istio-release/galley:release-1.0-20181104-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20181105-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.0-20181109-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
 [gcr.io/istio-release/galley:release-1.0-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
@@ -1555,6 +1585,24 @@
 
 
 [gcr.io/istio-release/galley:release-1.1-20181103-10-04](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181104-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181105-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181106-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
+
+
+[gcr.io/istio-release/galley:release-1.1-20181109-09-15](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)
 
 
 [gcr.io/istio-release/galley:release-1.1-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.galley/tags/)

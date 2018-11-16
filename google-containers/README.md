@@ -1104,6 +1104,36 @@
 
 
 
+[gcr.io/google-containers/k8s-dns-node-cache](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-node-cache-amd64](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache-amd64/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-node-cache-arm](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache-arm/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-node-cache-arm64](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache-arm64/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-node-cache-ppc64le](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache-ppc64le/tags/)
+-----
+
+
+
+[gcr.io/google-containers/k8s-dns-node-cache-s390x](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-node-cache-s390x/tags/)
+-----
+
+
+
 [gcr.io/google-containers/k8s-dns-sidecar](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar/tags/)
 -----
 

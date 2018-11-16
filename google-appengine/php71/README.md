@@ -219,6 +219,9 @@
 [gcr.io/google-appengine/php71:2018-10-31-17-53](https://hub.docker.com/r/anjia0532/google-appengine.php71/tags/)
 
 
+[gcr.io/google-appengine/php71:2018-11-09-15-02](https://hub.docker.com/r/anjia0532/google-appengine.php71/tags/)
+
+
 [gcr.io/google-appengine/php71:latest](https://hub.docker.com/r/anjia0532/google-appengine.php71/tags/)
 
 

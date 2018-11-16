@@ -63,3 +63,6 @@
 [gcr.io/google-containers/k8s-dns-sidecar-arm:1.14.9](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-arm/tags/)
 
 
+[gcr.io/google-containers/k8s-dns-sidecar-arm:1.15.0](https://hub.docker.com/r/anjia0532/google-containers.k8s-dns-sidecar-arm/tags/)
+
+

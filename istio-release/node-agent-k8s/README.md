@@ -219,6 +219,15 @@
 [gcr.io/istio-release/node-agent-k8s:master-20181002-09-25](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 
+[gcr.io/istio-release/node-agent-k8s:master-20181106-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181107-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
 [gcr.io/istio-release/node-agent-k8s:master-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 

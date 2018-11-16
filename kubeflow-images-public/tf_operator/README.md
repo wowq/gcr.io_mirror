@@ -6,6 +6,9 @@
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-23c6887-261-f19d](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-3a0efc1-274-bb6e](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-513e107-266-fa39](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
@@ -30,6 +33,9 @@
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-7234bce-260-2b75](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-785f416-272-7f3c](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-9c24967-265-a2bc](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
@@ -40,6 +46,9 @@
 
 
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-b12da9e-262-1a70](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
+
+
+[gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-b1ff7b0-273-cb42](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)
 
 
 [gcr.io/kubeflow-images-public/tf_operator:kubeflow-tf-operator-postsubmit-v2-cf01b51-267-dcb2](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tf_operator/tags/)

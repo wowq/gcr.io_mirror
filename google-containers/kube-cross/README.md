@@ -24,6 +24,9 @@
 [gcr.io/google-containers/kube-cross:v1.11.1-2](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
 
 
+[gcr.io/google-containers/kube-cross:v1.11.2-1](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
+
+
 [gcr.io/google-containers/kube-cross:v1.4.2-1](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
 
 
