@@ -681,6 +681,24 @@
 [gcr.io/cloud-datalab/agent:cloud_datalab_release_20181109_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
 
 
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181110_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181111_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181112_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181113_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181114_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
+[gcr.io/cloud-datalab/agent:cloud_datalab_release_20181115_1703_RC00](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
+
+
 [gcr.io/cloud-datalab/agent:latest](https://hub.docker.com/r/anjia0532/cloud-datalab.agent/tags/)
 
 

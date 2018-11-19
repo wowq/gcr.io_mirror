@@ -66,6 +66,12 @@
 [gcr.io/spinnaker-marketplace/clouddriver:2.0.0-20180330114412](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
+[gcr.io/spinnaker-marketplace/clouddriver:2.0.0-20181109221331](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:2.0.0-20181109225642](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
 [gcr.io/spinnaker-marketplace/clouddriver:2.1.0-20180319132609](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
@@ -765,6 +771,9 @@
 [gcr.io/spinnaker-marketplace/clouddriver:4.0.2-20181031042809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
+[gcr.io/spinnaker-marketplace/clouddriver:4.0.3-20181110042807](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
 [gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181017022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
@@ -862,5 +871,32 @@
 
 
 [gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181109183559](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181109222836](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181109230858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181111022807](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181112114602](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181112144829](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181112155808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181113171058](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181115022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:4.1.0-20181116022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 

@@ -1725,6 +1725,27 @@
 [gcr.io/istio-release/servicegraph_debug:release-1.0-20181109-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181110-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181111-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181112-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181113-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181114-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181115-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
+[gcr.io/istio-release/servicegraph_debug:release-1.0-20181116-09-15](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
+
+
 [gcr.io/istio-release/servicegraph_debug:release-1.0-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.servicegraph_debug/tags/)
 
 

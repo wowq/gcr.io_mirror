@@ -909,6 +909,9 @@
 [gcr.io/google-appengine/fluentd-logger:debian9-20180425-rc01](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
 
 
+[gcr.io/google-appengine/fluentd-logger:file-buffer](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
+
+
 [gcr.io/google-appengine/fluentd-logger:flex_sidecars.20180423_RC00](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
 
 
@@ -1021,6 +1024,9 @@
 
 
 [gcr.io/google-appengine/fluentd-logger:flex_sidecars.20181108_RC00](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
+
+
+[gcr.io/google-appengine/fluentd-logger:flex_sidecars.20181115_RC00](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)
 
 
 [gcr.io/google-appengine/fluentd-logger:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.fluentd-logger/tags/)

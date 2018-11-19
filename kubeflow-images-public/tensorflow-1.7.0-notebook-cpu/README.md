@@ -282,7 +282,13 @@
 [gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v20180806-145fac43](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.7.0-notebook-cpu/tags/)
 
 
+[gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-1c46aec-891](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.7.0-notebook-cpu/tags/)
+
+
 [gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-7a84feb-864](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.7.0-notebook-cpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-8411c8b-885](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.7.0-notebook-cpu/tags/)
 
 
 [gcr.io/kubeflow-images-public/tensorflow-1.7.0-notebook-cpu:v-base-b321075-822](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.7.0-notebook-cpu/tags/)

@@ -39,6 +39,12 @@
 [gcr.io/google-containers/cloud-controller-manager-arm64:v1.10.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm64/tags/)
 
 
+[gcr.io/google-containers/cloud-controller-manager-arm64:v1.10.10](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm64/tags/)
+
+
+[gcr.io/google-containers/cloud-controller-manager-arm64:v1.10.11-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm64/tags/)
+
+
 [gcr.io/google-containers/cloud-controller-manager-arm64:v1.10.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm64/tags/)
 
 

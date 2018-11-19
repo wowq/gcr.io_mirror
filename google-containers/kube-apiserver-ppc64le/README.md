@@ -39,6 +39,12 @@
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.10](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.11-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-apiserver-ppc64le:v1.10.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-apiserver-ppc64le/tags/)
 
 

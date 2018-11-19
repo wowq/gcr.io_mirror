@@ -1020,6 +1020,9 @@
 [gcr.io/google-appengine/api-verifier:flex_sidecars.20181108_RC00](https://hub.docker.com/r/anjia0532/google-appengine.api-verifier/tags/)
 
 
+[gcr.io/google-appengine/api-verifier:flex_sidecars.20181115_RC00](https://hub.docker.com/r/anjia0532/google-appengine.api-verifier/tags/)
+
+
 [gcr.io/google-appengine/api-verifier:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.api-verifier/tags/)
 
 

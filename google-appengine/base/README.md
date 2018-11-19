@@ -1026,6 +1026,9 @@
 [gcr.io/google-appengine/base:flex_sidecars.20181108_RC00](https://hub.docker.com/r/anjia0532/google-appengine.base/tags/)
 
 
+[gcr.io/google-appengine/base:flex_sidecars.20181115_RC00](https://hub.docker.com/r/anjia0532/google-appengine.base/tags/)
+
+
 [gcr.io/google-appengine/base:josephburnett-test-2b](https://hub.docker.com/r/anjia0532/google-appengine.base/tags/)
 
 

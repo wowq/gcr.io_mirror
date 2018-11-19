@@ -18,6 +18,18 @@
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181109184609](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181109222836](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181109230858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181112155808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.10.0-20181115115936](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.1.0-33](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
@@ -201,6 +213,12 @@
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.0-20180913172809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.0-20181109221331](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.0-20181109225642](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.1-20181031022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
@@ -208,6 +226,9 @@
 
 
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.1-20181101125517](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.1-20181112144829](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.9.2-20181108172516](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)

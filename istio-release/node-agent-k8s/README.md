@@ -228,7 +228,40 @@
 [gcr.io/istio-release/node-agent-k8s:master-20181108-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 
+[gcr.io/istio-release/node-agent-k8s:master-20181112-20-58](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181113-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181114-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181115-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:master-20181116-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
 [gcr.io/istio-release/node-agent-k8s:master-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-20181112-21-12](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-20181113-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-20181114-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-20181115-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-20181116-09-15](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
+
+
+[gcr.io/istio-release/node-agent-k8s:release-1.1-latest-daily](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)
 
 
 [gcr.io/istio-release/node-agent-k8s:rkpagadala-test14](https://hub.docker.com/r/anjia0532/istio-release.node-agent-k8s/tags/)

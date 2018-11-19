@@ -159,6 +159,12 @@
 [gcr.io/spinnaker-marketplace/echo:1.0.0-20180824153529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
+[gcr.io/spinnaker-marketplace/echo:1.0.0-20181109221331](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:1.0.0-20181109225642](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
 [gcr.io/spinnaker-marketplace/echo:1.0.1-20180703091421](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
@@ -345,6 +351,9 @@
 [gcr.io/spinnaker-marketplace/echo:2.1.1-20181031042809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
+[gcr.io/spinnaker-marketplace/echo:2.1.2-20181113042810](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
 [gcr.io/spinnaker-marketplace/echo:2.2.0-20181017022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 
@@ -391,5 +400,20 @@
 
 
 [gcr.io/spinnaker-marketplace/echo:2.2.0-20181109132831](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:2.2.0-20181109222836](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:2.2.0-20181109230858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:2.2.0-20181112152620](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:2.2.0-20181112155808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:2.2.0-20181113171058](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
 
 

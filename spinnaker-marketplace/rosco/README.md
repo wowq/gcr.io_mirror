@@ -84,6 +84,12 @@
 [gcr.io/spinnaker-marketplace/rosco:0.5.0-20180824153529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 
+[gcr.io/spinnaker-marketplace/rosco:0.5.0-20181109221331](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
+[gcr.io/spinnaker-marketplace/rosco:0.5.0-20181109225642](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
 [gcr.io/spinnaker-marketplace/rosco:0.6.0-20180304012806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 
@@ -208,5 +214,17 @@
 
 
 [gcr.io/spinnaker-marketplace/rosco:0.8.1-20181109022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
+[gcr.io/spinnaker-marketplace/rosco:0.8.1-20181109222836](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
+[gcr.io/spinnaker-marketplace/rosco:0.8.1-20181109230858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
+[gcr.io/spinnaker-marketplace/rosco:0.8.1-20181112144829](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
+
+
+[gcr.io/spinnaker-marketplace/rosco:0.8.1-20181112155808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.rosco/tags/)
 
 

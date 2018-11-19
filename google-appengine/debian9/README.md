@@ -78,6 +78,9 @@
 [gcr.io/google-appengine/debian9:2018-08-09-115606](https://hub.docker.com/r/anjia0532/google-appengine.debian9/tags/)
 
 
+[gcr.io/google-appengine/debian9:2018-11-13-131216](https://hub.docker.com/r/anjia0532/google-appengine.debian9/tags/)
+
+
 [gcr.io/google-appengine/debian9:latest](https://hub.docker.com/r/anjia0532/google-appengine.debian9/tags/)
 
 

@@ -150,6 +150,12 @@
 [gcr.io/spinnaker-marketplace/fiat:1.0.0-20180803022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
 
 
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20181109221331](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20181109225642](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
 [gcr.io/spinnaker-marketplace/fiat:1.0.1-20180829141913](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
 
 
@@ -241,5 +247,26 @@
 
 
 [gcr.io/spinnaker-marketplace/fiat:1.2.0-20181109132831](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181109222836](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181109230858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181112144829](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181112155808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181113022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.2.0-20181115151924](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.3.0-20181116022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
 
 

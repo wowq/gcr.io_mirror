@@ -1,3 +1,11 @@
+## 2018-11-19 01:27 
+
+[gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v20180604-b3733835](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.6.0-notebook-gpu/tags/)
+
+
+[gcr.io/kubeflow-images-public/tensorflow-1.6.0-notebook-gpu:v-base-1c46aec-891](https://hub.docker.com/r/anjia0532/kubeflow-images-public.tensorflow-1.6.0-notebook-gpu/tags/)
+
+
 ## 2018-11-16 12:37 
 
 [gcr.io/cloud-datalab/datalab-gpu:commit-847720b19daebe266c24ee67fb541527bbfd2628](https://hub.docker.com/r/anjia0532/cloud-datalab.datalab-gpu/tags/)
