@@ -44,7 +44,7 @@ docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-
 docker pull k8s.gcr.io/federation-controller-manager-arm64:v1.3.1-beta.1
 ```
 
-~~ReTag anjia0532 images to gcr.io ~~
+~~ReTag anjia0532 images to gcr.io~~
 -------
 
 ```bash
