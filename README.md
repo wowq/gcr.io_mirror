@@ -6,19 +6,23 @@ Google Container Registry Mirror [last sync 2018-11-19 16:26 UTC]
 
 ![](http://ww1.sinaimg.cn/large/afaffa71ly1fxe8g1k4jwj20gt0850t1.jpg)
 
+**USTC Mirrors**
+
+issues : https://github.com/ustclug/mirrorrequest/issues/91
+
 Syntax
 -------
 
 ```bash
 gcr.io/namespace/image_name:image_tag 
 #eq
-anjia0532/namespace.image_name:image_tag
+gcr.mirrors.ustc.edu.cn/namespace/image_name:image_tag 
 
 # special
-k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> anjia0532/google-containers.{image}/{tag}
+k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> gcr.mirrors.ustc.edu.cn/namespace/image_name:image_tag 
 ```
 
-Add new namespace
+~~Add new namespace~~
 -------
 [Fork and edit sync branch file gcr_namespaces](https://github.com/anjia0532/gcr.io_mirror/edit/sync/gcr_namespaces)
 
@@ -31,7 +35,7 @@ Example
 
 ```bash
 
-docker pull anjia0532/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1
+docker pull gcr.mirrors.ustc.edu.cn/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
 # eq
 docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
 
@@ -40,7 +44,7 @@ docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-
 docker pull k8s.gcr.io/federation-controller-manager-arm64:v1.3.1-beta.1
 ```
 
-ReTag anjia0532 images to gcr.io 
+~~ReTag anjia0532 images to gcr.io ~~
 -------
 
 ```bash
@@ -80,7 +84,7 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 14 namespaces image from gcr.io
+~~Mirror 14 namespaces image from gcr.io~~
 -----
 
 
