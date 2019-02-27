@@ -18,10 +18,10 @@ Syntax
 ```bash
 gcr.io/namespace/image_name:image_tag 
 #eq
-gcr.mirrors.ustc.edu.cn/namespace/image_name:image_tag 
+gcr.azk8s.cn/namespace/image_name:image_tag 
 
 # special
-k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> gcr.mirrors.ustc.edu.cn/namespace/image_name:image_tag 
+k8s.gcr.io/{image}/{tag} <==> gcr.io/google-containers/{image}/{tag} <==> gcr.azk8s.cn/namespace/image_name:image_tag 
 ```
 
 ~~Add new namespace~~
@@ -37,7 +37,7 @@ Example
 
 ```bash
 
-docker pull gcr.mirrors.ustc.edu.cn/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
+docker pull gcr.azk8s.cn/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
 # eq
 docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
 
