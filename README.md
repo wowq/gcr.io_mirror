@@ -6,9 +6,11 @@ Google Container Registry Mirror [last sync 2018-11-19 16:26 UTC]
 
 ![](http://ww1.sinaimg.cn/large/afaffa71ly1fxe8g1k4jwj20gt0850t1.jpg)
 
-**USTC Mirrors**
+**Azure Mirrors**
 
-issues : https://github.com/ustclug/mirrorrequest/issues/91
+thanks for @zebang li share this news!
+
+![](http://ww1.sinaimg.cn/large/afaffa71ly1g0l50nuqjlj20fo0aa3z5.jpg)
 
 Syntax
 -------
